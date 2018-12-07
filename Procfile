@@ -1,1 +1,1 @@
-worker: python premium.py
+worker: python pro.py
